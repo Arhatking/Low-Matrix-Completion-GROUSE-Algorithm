@@ -1,8 +1,17 @@
+Project: Low rank matrix completion using GROUSE
+
+Authors: 
+
+1. Amit Kumar
+2. Sophie Choe
+3. Aakanksha Mathuria
+	
+
 Contents of this folder:
     Sub-folders:
         ml-latest-small: movie lens dataset
         To acknowledge use of the dataset in publications, please cite the following paper: 
-            > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1â€“19:19. <https://doi.org/10.1145/2827872>
+            > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
 
     Matlab Functions:
         lrmc_grouse.m: target algorithm (Low rank matrix completion using GROUSE)
